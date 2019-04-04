@@ -1,6 +1,6 @@
 # Primeiro repositório
 
-![start.jpeg](Início)
+![](start.jpeg)
 
 Este repositório serve de exemplo para o curso de GitHub
 
