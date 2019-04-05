@@ -1,5 +1,7 @@
 Alderan
-Plutão
 Marte
 Mercúrio
+
+Júpiter
+
 Lua
